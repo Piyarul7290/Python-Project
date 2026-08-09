@@ -1,0 +1,106 @@
+# 🐍 Python Mini Projects
+
+Welcome to my **Python Mini Projects** repository! 🚀
+
+This repository contains a collection of beginner-friendly Python projects that I created to practice programming concepts, improve problem-solving skills, and gain hands-on experience with Python.
+
+## 📂 Projects
+
+| Project                        | Description                                                                           |
+| ------------------------------ | ------------------------------------------------------------------------------------- |
+| 🌡️ **Temperature Calculator** | Converts temperature between different units.                                         |
+| 🎰 **Slot Machine**            | A simple terminal-based slot machine game.                                            |
+| ✊ **Rock Paper Scissors**      | A classic game played between the user and the computer.                              |
+| 🧠 **Quiz Game**               | A simple quiz application that asks questions and calculates the score.               |
+| 🔢 **Number Guessing Game**    | The user tries to guess a randomly generated number.                                  |
+| 🛒 **Shopping Cart**           | A basic shopping cart program for selecting products and calculating the total price. |
+
+## 🛠️ Technologies Used
+
+* Python 3
+* Python Standard Library
+* Git
+* GitHub
+
+## 🎯 What I Learned
+
+Through these projects, I practiced:
+
+* Python variables and data types
+* `if/else` conditions
+* `for` and `while` loops
+* Functions
+* Lists and dictionaries
+* User input and output
+* Random number generation
+* Basic error handling
+* Problem-solving
+* Git and GitHub
+
+## ▶️ How to Run
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Piyarul7290/Python-Project.git
+```
+
+### 2. Open the project folder
+
+```bash
+cd Python-Project
+```
+
+### 3. Run any project
+
+For example:
+
+```bash
+python SlotMachine.py
+```
+
+or:
+
+```bash
+python QuizGame.py
+```
+
+You can replace the filename with any Python project in the repository.
+
+## 📁 Repository Structure
+
+```text
+Python-Project/
+│
+├── TempCalculator.py
+├── SlotMachine.py
+├── RockPaperScissors.py
+├── QuizGame.py
+├── NumberGuessing.py
+├── ShoppingCart.py
+└── README.md
+```
+
+## 🚀 Future Improvements
+
+I plan to continue improving these projects by:
+
+* Adding better error handling
+* Improving user interfaces
+* Adding more advanced Python concepts
+* Creating GUI versions using Tkinter
+* Building larger real-world Python projects
+
+## 👨‍💻 Author
+
+**Piyarul Sekh**
+
+GitHub: https://github.com/Piyarul7290
+
+## ⭐ Support
+
+If you find these projects useful for learning Python, consider giving the repository a ⭐ on GitHub!
+
+---
+
+**Learning Python one project at a time. 🐍🚀**
